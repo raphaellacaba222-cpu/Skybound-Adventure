@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=doodleWorld
+comment1.params=
+comment1.target=doodleWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ cleanup()
+comment3.text=\r\nRemove\ objects\ from\ the\ screen\r\n
+comment4.params=level
+comment4.target=void\ setLevel(int)
+comment4.text=\r\nGeneration\ level.\ we\ have\ implemented\ only\ one\ level\r\n
+comment5.params=
+comment5.target=void\ gamePlay()
+comment5.text=\r\nStart\ of\ game\r\n
+comment6.params=
+comment6.target=void\ end()
+comment6.text=\r\nEnd\ of\ game\r\n
+numComments=7

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=monstr
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookDoodler()
+comment2.text=\r\n\ Looking\ for\ a\ dealer,\ if\ found\ -\ we\ eat,\ or\ move\ to\ the\ right\r\n
+comment3.params=
+comment3.target=void\ killed()
+comment4.params=
+comment4.target=void\ kil1()
+numComments=5

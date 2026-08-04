@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ground
+comment1.params=
+comment1.target=ground()
+comment2.params=bouncable
+comment2.target=ground(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ If\ doodlers\ moves\ \\\ falls,\ respectively,\ moving\ ground\r\n
+comment4.params=world
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=speed
+comment5.target=void\ scroll(int)
+comment5.text=\r\n\ We\ move\ the\ ground\ to\ simulate\ motion\r\n
+comment6.params=speed
+comment6.target=void\ fall(int)
+comment6.text=\r\n\ until\ the\ game\ is\ stopped,\ we\ move\ the\ ground\ along\ the\ y\ axis,\r\n\ simulating\ the\ movement\ of\ the\ screen\r\n
+numComments=7
